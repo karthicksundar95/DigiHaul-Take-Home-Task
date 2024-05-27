@@ -1,7 +1,7 @@
 # DigiHaul Take Home Task
 Analysis of lead time and predictive modelling of potential delay in shipments
 <h1 align='Center'>
-<img src="https://assets.digihaul.com/images/logo.png" width="350" height="550" align="center"/>
+<img src="https://assets.digihaul.com/images/logo.png" align="center"/>
 </h1>
 
 ### Problem Statement
